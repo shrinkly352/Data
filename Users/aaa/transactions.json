@@ -8,19 +8,19 @@
   {
     "id": "WD-002",
     "amount": 10.5,
-    "status": "Complete",
+    "status": "Approved",
     "date": "2026-10-01"
   },
   {
     "id": "WD-002",
     "amount": 10.5,
-    "status": "Complete",
+    "status": "Cancelled",
     "date": "2026-10-01"
   },
   {
     "id": "WD-002",
     "amount": 10.5,
-    "status": "Complete",
+    "status": "Returned",
     "date": "2026-10-01"
   },
   {
