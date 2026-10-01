@@ -1,1 +1,10 @@
-[]
+[
+    {
+        "id": 1204,
+        "date": "2026-09-30",
+        "status": "Complete",
+        "amount": 5,
+        "withdrawalMethod": "Gcash",
+        "withdrawAccount": "09171234567"
+    }
+]
