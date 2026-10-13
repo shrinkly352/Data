@@ -1,0 +1,170 @@
+{
+  "MC": {
+    "name": "Monaco",
+    "flag": "🇲🇨",
+    "desktop": 30.00,
+    "mobile": 40.00
+  },
+  "US": {
+    "name": "United States",
+    "flag": "🇺🇸",
+    "desktop": 15.00,
+    "mobile": 17.00
+  },
+  "GB": {
+    "name": "United Kingdom",
+    "flag": "🇬🇧",
+    "desktop": 13.00,
+    "mobile": 15.00
+  },
+  "AU": {
+    "name": "Australia",
+    "flag": "🇦🇺",
+    "desktop": 11.00,
+    "mobile": 13.00
+  },
+  "CA": {
+    "name": "Canada",
+    "flag": "🇨🇦",
+    "desktop": 11.00,
+    "mobile": 13.00
+  },
+  "NZ": {
+    "name": "New Zealand",
+    "flag": "🇳🇿",
+    "desktop": 11.00,
+    "mobile": 13.00
+  },
+  "AD": {
+    "name": "Andorra",
+    "flag": "🇦🇩",
+    "desktop": 8.00,
+    "mobile": 10.00
+  },
+  "BE": {
+    "name": "Belgium",
+    "flag": "🇧🇪",
+    "desktop": 8.00,
+    "mobile": 10.00
+  },
+  "FR": {
+    "name": "France",
+    "flag": "🇫🇷",
+    "desktop": 8.00,
+    "mobile": 10.00
+  },
+  "DE": {
+    "name": "Germany",
+    "flag": "🇩🇪",
+    "desktop": 8.00,
+    "mobile": 10.00
+  },
+  "GL": {
+    "name": "Greenland",
+    "flag": "🇬🇱",
+    "desktop": 8.00,
+    "mobile": 10.00
+  },
+  "IS": {
+    "name": "Iceland",
+    "flag": "🇮🇸",
+    "desktop": 8.00,
+    "mobile": 10.00
+  },
+  "IE": {
+    "name": "Ireland",
+    "flag": "🇮🇪",
+    "desktop": 8.00,
+    "mobile": 10.00
+  },
+  "DK": {
+    "name": "Denmark",
+    "flag": "🇩🇰",
+    "desktop": 7.00,
+    "mobile": 9.00
+  },
+  "FI": {
+    "name": "Finland",
+    "flag": "🇫🇮",
+    "desktop": 7.00,
+    "mobile": 9.00
+  },
+  "IT": {
+    "name": "Italy",
+    "flag": "🇮🇹",
+    "desktop": 7.00,
+    "mobile": 9.00
+  },
+  "NL": {
+    "name": "Netherlands",
+    "flag": "🇳🇱",
+    "desktop": 7.00,
+    "mobile": 9.00
+  },
+  "NO": {
+    "name": "Norway",
+    "flag": "🇳🇴",
+    "desktop": 7.00,
+    "mobile": 9.00
+  },
+  "CH": {
+    "name": "Switzerland",
+    "flag": "🇨🇭",
+    "desktop": 7.00,
+    "mobile": 9.00
+  },
+  "AT": {
+    "name": "Austria",
+    "flag": "🇦🇹",
+    "desktop": 6.00,
+    "mobile": 8.00
+  },
+  "LU": {
+    "name": "Luxembourg",
+    "flag": "🇱🇺",
+    "desktop": 6.00,
+    "mobile": 8.00
+  },
+  "SE": {
+    "name": "Sweden",
+    "flag": "🇸🇪",
+    "desktop": 6.00,
+    "mobile": 8.00
+  },
+  "PT": {
+    "name": "Portugal",
+    "flag": "🇵🇹",
+    "desktop": 5.00,
+    "mobile": 7.00
+  },
+  "RO": {
+    "name": "Romania",
+    "flag": "🇷🇴",
+    "desktop": 5.00,
+    "mobile": 7.00
+  },
+  "ES": {
+    "name": "Spain",
+    "flag": "🇪🇸",
+    "desktop": 5.00,
+    "mobile": 7.00
+  },
+  "MY": {
+    "name": "Malaysia",
+    "flag": "🇲🇾",
+    "desktop": 4.00,
+    "mobile": 6.00
+  },
+  "SG": {
+    "name": "Singapore",
+    "flag": "🇸🇬",
+    "desktop": 4.00,
+    "mobile": 6.00
+  },
+  "TH": {
+    "name": "Thailand",
+    "flag": "🇹🇭",
+    "desktop": 4.00,
+    "mobile": 6.00
+  }
+}
